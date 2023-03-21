@@ -68,6 +68,6 @@ namespace palindrome
 }
 
 ## Output:
-![output]()
+![output](https://github.com/jhansi21005096/Palindrome/blob/main/c%23output1.png)
 ## Result:
 Thus the C# program to display whether the given string is Palindrome or not is executed successfully.
